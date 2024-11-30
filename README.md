@@ -1,5 +1,6 @@
 # Yandex-Practicum
-practice for 2nd Sprint
+practice for 2nd Sprint (1st project)
+
 
 import datetime as dt
 from decimal import Decimal
